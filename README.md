@@ -1,8 +1,4 @@
-<!--
-### 🔥 Статус: Открыт к предложениям (Удаленно, до 5 часов в день)
--->
-
-<h1 align="center">Привет! Я Сергей Свиридов 👋</h1>
+<h1 align="center">Привет!👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Backend%20(Middle)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -10,7 +6,6 @@
   <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
----
 
 ### 🧑‍💻 Обо мне
 
@@ -22,7 +17,6 @@
 *   ⚡ **Асинхронность:** Python (Asyncio, Aiogram), многопоточность.
 *   🐧 **Окружение:** Arch Linux — мой основной инструмент, настройка через конфиги.
 
----
 
 ### 🛠 Мой стек технологий
 
@@ -32,7 +26,6 @@
 | **C++** (Junior) | Qt (Widgets), STL, OOP | Linux (Bash), CMake |
 | **Web** (Junior) | HTML5, CSS3, Vanilla JS | REST API, WebSockets |
 
----
 
 ### 🚀 Проекты
 
@@ -67,7 +60,6 @@
 *   Применил паттерны проектирования для поддержания чистоты кода и его расширяемости.
 *   **Результат:** Интуитивно понятное приложение для работы с данными.
 
----
 
 ### 📫 Контакты
 
@@ -75,7 +67,5 @@
 
 *   📧 **Email:** [svse343@gmail.com](mailto:svse343@gmail.com)
 *   📱 **Telegram:** [@return503](https://t.me/return503)
-*   💼 **LinkedIn:** *(Добавь, если есть)*
 
----
 ⭐️ **Спасибо, что заглянули!**
