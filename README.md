@@ -4,30 +4,36 @@
   <img src="https://img.shields.io/badge/Python-Backend%20(Middle)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-Backend%20(Junior)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-A2-FFD700?style=for-the-badge&logo=duolingo&logoColor=white" />
 </p>
 
 
-### 🧑‍💻 Обо мне
+### Обо мне
 
 Я **Backend-разработчик**, специализирующийся на сетевых взаимодействиях и асинхронных системах. Основной язык — **Python**, также пишу на **C++** (Qt) и немного владею **HTML/CSS/JS**.
 
-Мой путь в IT строится на решении реальных задач: от написания прокси-серверов до создания голосовых ассистентов и бизнес-ботов. Люблю разбираться в том, как данные путешествуют по сети, и делаю этот процесс надежным и управляемым.
+Мой путь в IT строится на решении реальных задач: от написания прокси-серверов до создания голосовых ассистентов и бизнес-ботов. Люблю разбираться в том, как работает сеть и пакеты данных, и делаю этот процесс надежным и управляемым.
 
 *   🌐 **Сети:** Понимание TCP/IP, HTTP/HTTPS, работа с сокетами и SSL/TLS.
 *   ⚡ **Асинхронность:** Python (Asyncio, Aiogram), многопоточность.
 *   🐧 **Окружение:** Arch Linux — мой основной инструмент, настройка через конфиги.
+*   🐳 **Контейнеризация:** Docker, написание Dockerfile, сборка образов, работа с контейнерами.
+*   🗄️ **Базы данных:** SQL (SQLite), написание запросов, проектирование простых схем.
+*   🇬🇧 **Языки:** Русский (родной), Английский (A2 — чтение документации, базовое общение).
 
 
-### 🛠 Мой стек технологий
+### Мой стек технологий
 
-| Языки | Фреймворки/Библиотеки | Инструменты |
-| :--- | :--- | :--- |
-| **Python** (Middle) | Asyncio, Aiogram, Requests, Scapy | Git, Docker, OpenSSL, SQLite |
-| **C++** (Junior) | Qt (Widgets), STL, OOP | Linux (Bash), CMake |
-| **Web** (Junior) | HTML5, CSS3, Vanilla JS | REST API, WebSockets |
+| Языки | Фреймворки/Библиотеки | Инструменты | Базы данных |
+| :--- | :--- | :--- | :--- |
+| **Python** (Middle) | Asyncio, Aiogram, Requests, Scapy | Git, Docker, OpenSSL | SQLite, SQL |
+| **C++** (Junior) | Qt (Widgets), STL, OOP | Linux (Bash), CMake | — |
+| **Web** (Junior) | HTML5, CSS3, Vanilla JS | REST API, WebSockets | — |
 
 
-### 🚀 Проекты
+### Проекты
 
 Здесь собраны мои ключевые работы, демонстрирующие навыки от низкоуровневого сетевого программирования до прикладных бизнес-решений.
 
@@ -61,8 +67,7 @@
 *   **Результат:** Интуитивно понятное приложение для работы с данными.
 
 
-### 📫 Контакты
-*   📧 **Email:** [svse343@gmail.com](mailto:svse343@gmail.com)
-*   📱 **Telegram:** [@return503](https://t.me/return503)
+### Контакты
 
-⭐️ **Спасибо, что заглянули!**
+*   **Email:** [svse343@gmail.com](mailto:svse343@gmail.com)
+*   **Telegram:** [@return503](https://t.me/return503)
