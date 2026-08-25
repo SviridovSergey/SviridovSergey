@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C++-Backend%20(Junior)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/English-A2-FFD700?style=for-the-badge&logo=duolingo&logoColor=white" />
 </p>
 
